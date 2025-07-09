@@ -4,7 +4,7 @@
     "name": "Sensor",
     "description": "Some sensor attached to Ilmatar the ovehead crane. Measures temperature and humidity.",
     "baseurl": "https://dtw.twinbase.org",
-    "edit": "https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/2bf2ee33-1297-4c30-afac-d80411f3f617/index.yaml",
+    "edit": "https://github.com/th3m8a/twinbase-demo/edit/main/docs/2bf2ee33-1297-4c30-afac-d80411f3f617/index.yaml",
     "relations": [
         {
             "dt-id": "http://dtid.org/6a303315-d9e5-48ef-a1da-d37bcaa10c57",
