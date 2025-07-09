@@ -3,6 +3,6 @@ hosting-iri: https://dtw.twinbase.org/1bbfab79-2890-4bcf-97fa-9dffb99c1759
 name: Twin for research seminar
 description: This twin can be modified on the research seminar.
 baseurl: https://dtw.twinbase.org
-edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/1bbfab79-2890-4bcf-97fa-9dffb99c1759/index.yaml
+edit: https://github.com/th3m8a/twinbase-demo/edit/main/docs/1bbfab79-2890-4bcf-97fa-9dffb99c1759/index.yaml
 relations:
   parent: https://d-t.fi/juuso

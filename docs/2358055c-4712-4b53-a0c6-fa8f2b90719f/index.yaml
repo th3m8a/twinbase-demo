@@ -3,7 +3,7 @@ hosting-iri: https://dtw.twinbase.org/2358055c-4712-4b53-a0c6-fa8f2b90719f
 name: Trolley of Ilmatar
 description: A component of Ilmatar the overhead crane
 baseurl: https://dtw.twinbase.org
-edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/2358055c-4712-4b53-a0c6-fa8f2b90719f/index.yaml
+edit: https://github.com/th3m8a/twinbase-demo/edit/main/docs/2358055c-4712-4b53-a0c6-fa8f2b90719f/index.yaml
 relations:
 - dt-id: http://dtid.org/6a303315-d9e5-48ef-a1da-d37bcaa10c57
   relationType: parent

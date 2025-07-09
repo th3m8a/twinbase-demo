@@ -3,7 +3,7 @@ hosting-iri: https://dtw.twinbase.org/497ff305-3444-487a-a8a9-5b8ff21071b4
 name: Puumiehenkuja
 description: A street located in Otaniemi, Espoo, Finland.
 baseurl: https://dtw.twinbase.org
-edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/497ff305-3444-487a-a8a9-5b8ff21071b4/index.yaml
+edit: https://github.com/th3m8a/twinbase-demo/edit/main/docs/497ff305-3444-487a-a8a9-5b8ff21071b4/index.yaml
 relations:
 - dt-id: https://dtid.org/81ca4ef8-0125-4b27-8f44-3a1587e8bd57
   relationType: child

@@ -20,5 +20,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/19096ff3-8c0e-4d16-82d4-d0220f33709b
   relationType: child
-edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/lab-room-K3-143/index.yaml
+edit: https://github.com/th3m8a/twinbase-demo/edit/main/docs/lab-room-K3-143/index.yaml
 baseurl: https://dtw.twinbase.org
